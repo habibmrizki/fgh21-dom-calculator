@@ -24,6 +24,7 @@ body {
 
 .icon {
   display: flex;
+  gap: 6px;
 }
 
 .calc {
@@ -93,4 +94,8 @@ body {
   background-color: var(--color2);
   font-size: 40px;
   color: var(--color4);
+}
+
+.btn-calc > button:hover {
+  background-color: rgba(255, 255, 255, 0.5);
 }
