@@ -34,9 +34,10 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  padding: 10px;
 }
 .number0 {
-  padding-right: 37px;
+  padding-right: 10px;
 }
 
 .btn-calc {
